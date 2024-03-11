@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1710114326 "/home/chris/uni/ux/main.tex" "main.pdf" "main" 1710114327 0
-  "/home/chris/uni/ux/main.tex" 1710114326 11588 66456c5fe484e55f3afdcf37c5a5843f ""
+["pdflatex"] 1710115380 "/home/chris/uni/ux/main.tex" "main.pdf" "main" 1710115381 0
+  "/home/chris/uni/ux/main.tex" 1710115380 11821 0d194976597d0b15ce3fbed8e1ffd167 ""
   "/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_byuyni.enc" 1704400182 3536 0b568a348f6bb401cdf4107d502ced4e ""
   "/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ljow5q.enc" 1704400182 3091 3883b26aed3242dcea4d1b2dc17d939b ""
   "/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tcdnmr.enc" 1704400182 3067 22afe353d2248cced69e25efe7cf48e5 ""
@@ -185,12 +185,13 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1710086492 4483110 adb1e1d04498b9576f1f17c4219c5e03 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1710086483 6768047 9833db2fb373deba4b464ae84f1def79 ""
   "lix.sty" 1710024828 28767 f263238e58f2b880e1fc691c3df6b798 ""
-  "main.aux" 1710114327 2058 fb88d61eb8431ef2ee898fced1fd9338 "pdflatex"
-  "main.out" 1710114327 435 b2857f6735823f24a1c08c46ad2c4772 "pdflatex"
-  "main.tex" 1710114326 11588 66456c5fe484e55f3afdcf37c5a5843f ""
-  "main.toc" 1710114327 395 d01b935ee296df9928596a120e0877f2 "pdflatex"
+  "main.aux" 1710115381 2058 fb88d61eb8431ef2ee898fced1fd9338 "pdflatex"
+  "main.out" 1710115381 435 b2857f6735823f24a1c08c46ad2c4772 "pdflatex"
+  "main.tex" 1710115380 11821 0d194976597d0b15ce3fbed8e1ffd167 ""
+  "main.toc" 1710115381 395 d01b935ee296df9928596a120e0877f2 "pdflatex"
   "novel.cls" 1710024828 3303 b77d99fcf90538257764f08fee8c0fa6 ""
   "resources/Map2.png" 1710087451 946908 97cef883c02e9658340baa4d47e949ce ""
+  "resources/design.jpg" 1710114801 532165 e4a3e756bb56eb07d5670b9dc996496b ""
   "resources/deskDevice.jpg" 1710107825 495172 00d59693ef1f3e5176733ca95712ff41 ""
   "resources/headphones.jpg" 1710088556 189738 fe8b5310c3f6ffbb1f12366319a3acf4 ""
   "resources/lData.pdf" 1710114186 22708 f97fa6dd6d0a398b2dfda898f45f49c6 ""

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.10)  10 MAR 2024 23:45
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.10)  11 MAR 2024 00:03
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -940,12 +940,12 @@ Package lettrine.sty Info: Targeted height = 19.894pt
 <resources/mileEnd.jpg, id=62, 1027.84pt x 1027.84pt>
 File: resources/mileEnd.jpg Graphic file (type jpg)
 <use resources/mileEnd.jpg>
-Package pdftex.def Info: resources/mileEnd.jpg  used on input line 45.
+Package pdftex.def Info: resources/mileEnd.jpg  used on input line 44.
 (pdftex.def)             Requested size: 116.00307pt x 115.99557pt.
 <resources/whitechapel.jpg, id=63, 1027.84pt x 1027.84pt>
 File: resources/whitechapel.jpg Graphic file (type jpg)
 <use resources/whitechapel.jpg>
-Package pdftex.def Info: resources/whitechapel.jpg  used on input line 54.
+Package pdftex.def Info: resources/whitechapel.jpg  used on input line 53.
 (pdftex.def)             Requested size: 116.00307pt x 115.99557pt.
 [4
 
@@ -961,24 +961,30 @@ Package lettrine.sty Info: Targeted height = 19.894pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.86754pt (T) loversize=0.25;
 (lettrine.sty)             reported on input line 68.
-<resources/deskDevice.jpg, id=76, 1027.84pt x 1027.84pt>
-File: resources/deskDevice.jpg Graphic file (type jpg)
-<use resources/deskDevice.jpg>
-Package pdftex.def Info: resources/deskDevice.jpg  used on input line 73.
-(pdftex.def)             Requested size: 116.00307pt x 115.99557pt.
+<resources/design.jpg, id=76, 1228.59pt x 798.985pt>
+File: resources/design.jpg Graphic file (type jpg)
+<use resources/design.jpg>
+Package pdftex.def Info: resources/design.jpg  used on input line 71.
+(pdftex.def)             Requested size: 386.67296pt x 251.46216pt.
 [6
 
- <./resources/deskDevice.jpg>] [7]
+ <./resources/design.jpg>]
+<resources/deskDevice.jpg, id=82, 1027.84pt x 1027.84pt>
+File: resources/deskDevice.jpg Graphic file (type jpg)
+<use resources/deskDevice.jpg>
+Package pdftex.def Info: resources/deskDevice.jpg  used on input line 77.
+(pdftex.def)             Requested size: 116.00307pt x 115.99557pt.
+ [7 <./resources/deskDevice.jpg>]
 Chapter 4.
-<resources/nData.pdf, id=87, 597.23125pt x 341.275pt>
+<resources/nData.pdf, id=88, 597.23125pt x 341.275pt>
 File: resources/nData.pdf Graphic file (type pdf)
 <use resources/nData.pdf>
-Package pdftex.def Info: resources/nData.pdf  used on input line 84.
+Package pdftex.def Info: resources/nData.pdf  used on input line 89.
 (pdftex.def)             Requested size: 500.48398pt x 285.99207pt.
-<resources/lData.pdf, id=88, 597.23125pt x 568.1225pt>
+<resources/lData.pdf, id=89, 597.23125pt x 568.1225pt>
 File: resources/lData.pdf Graphic file (type pdf)
 <use resources/lData.pdf>
-Package pdftex.def Info: resources/lData.pdf  used on input line 89.
+Package pdftex.def Info: resources/lData.pdf  used on input line 94.
 (pdftex.def)             Requested size: 500.48398pt x 476.09268pt.
 [8
 
@@ -988,43 +994,43 @@ Chapter 5.
 
 ]
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <17.28> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 94.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 99.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 94.
+(Font)              scaled to size 17.28pt on input line 99.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <17.28> not available
-(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 94.
+(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 99.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 94.
+(Font)              scaled to size 17.28pt on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 94.
+(Font)              <12> on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 94.
+(Font)              <8> on input line 99.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 94.
+(Font)              <6> on input line 99.
 
-Underfull \hbox (badness 2753) in paragraph at lines 94--94
+Underfull \hbox (badness 2753) in paragraph at lines 99--99
 \T1/EBGaramond-OsF/regular/n/17.28 (+20) real-world in-ter-ac-tions, our re-search re-veals how
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 94--94
+Underfull \hbox (badness 10000) in paragraph at lines 99--99
 
  []
 
 
-Underfull \hbox (badness 5533) in paragraph at lines 94--94
+Underfull \hbox (badness 5533) in paragraph at lines 99--99
 \T1/EBGaramond-OsF/regular/n/17.28 (+20) Furthermore, this book pro-poses an in-no-va-tive
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 94--94
+Underfull \hbox (badness 1997) in paragraph at lines 99--99
 \T1/EBGaramond-OsF/regular/n/17.28 (+20) through au-di-tory, vi-sual, and tac-tile feed-back to
  []
 
-<resources/novel_back.jpg, id=133, 1327.32507pt x 1824.05408pt>
+<resources/novel_back.jpg, id=134, 1327.32507pt x 1824.05408pt>
 File: resources/novel_back.jpg Graphic file (type jpg)
 <use resources/novel_back.jpg>
-Package pdftex.def Info: resources/novel_back.jpg  used on input line 94.
+Package pdftex.def Info: resources/novel_back.jpg  used on input line 99.
 (pdftex.def)             Requested size: 614.28331pt x 794.98793pt.
 [11
 
@@ -1035,18 +1041,18 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: B2857F6735823F24A1C08C46AD2C4772;435.
  ) 
 Here is how much of TeX's memory you used:
- 21947 strings out of 477985
- 388216 string characters out of 5840058
+ 21951 strings out of 477985
+ 388290 string characters out of 5840058
  1859388 words of memory out of 5000000
- 41435 multiletter control sequences out of 15000+600000
- 661671 words of font info for 218 fonts, out of 8000000 for 9000
+ 41441 multiletter control sequences out of 15000+600000
+ 661389 words of font info for 216 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
  124i,14n,120p,1212b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/ccicons/ccicons.pfb></usr/share/texmf-dist/fonts/type1/public/ocr-b-outline/ocrb9.pfb>
-Output written on main.pdf (12 pages, 3524860 bytes).
+Output written on main.pdf (12 pages, 4057257 bytes).
 PDF statistics:
- 176 PDF objects out of 1000 (max. 8388607)
+ 177 PDF objects out of 1000 (max. 8388607)
  130 compressed objects within 2 object streams
  22 named destinations out of 1000 (max. 500000)
- 70754 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 70759 words of extra memory for PDF output out of 74296 (max. 10000000)
 

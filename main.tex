@@ -41,7 +41,6 @@ By examining the interplay between space, noise, and technology use, we can gain
 \l{M}ile End Library presents a scenario where technology facilitates social interaction and a sense of community among students. However, this comes at the cost of individual concentration and quiet study. Here, laptop usage was notably higher. In one scenario, a group of four students sharing their exam results led to periods of raised voices and laughter. This interaction highlights how technology can distract people from their surroundings. While for some, this behaviour may create memorable moments that alleviate academic pressure and encourage friendships and communal learning, for others, it may distract from urgent work and increase stress.
 
 \begin{wrapfigure}{r}{0.3\textwidth} 
-\vspace{-\intextsep}
     \includegraphics[width=0.3\textwidth]{resources/mileEnd.jpg}
 \end{wrapfigure}
 
@@ -52,6 +51,7 @@ The British Library Membership Room and the Whitechapel Library, both classified
 \begin{wrapfigure}{l}{0.3\textwidth} 
 \vspace{-\intextsep}
     \includegraphics[width=0.3\textwidth]{resources/whitechapel.jpg}
+    \vspace{-50pt} % Adjust this value as needed to reduce the gap below the image
 \end{wrapfigure}
 At the Whitechapel Library, despite a notable number of individuals on mobile phones, the environment remained quiet. This indicates respectful phone usage that does not disturb others. This behaviour reflects community adherence to silent norms, influenced by the library's architectural design, which discourages loud speaking. The Lewsey Library had no reported phone usage, yet two people were talking loudly. This suggests that technology is not the only factor influencing noise; social dynamics and library policies (or their enforcement) also play significant roles.
 
@@ -67,10 +67,15 @@ Despite the widespread availability of e-books, digital archives, and online dat
 \h{Design}
 \l{T}he system will integrate auditory, visual, and tactile feedback mechanisms. For example, when noise levels exceed a certain threshold, the system could emit a gentle, non-intrusive sound reminder, while the visual display changes colours. Tactile feedback could be provided through library desks that have integrated vibration alerts, subtle enough to catch attention without causing disturbance. This multi-modal approach ensures that the system accommodates different learning and interaction preferences, drawing from the Universal Design principles (Connell et al., 1997). This not only accommodates various sensory preferences and needs, but also gives the system multiple routes by which to catch the attention of overly loud visitors. This approach ensures that all users, including those with disabilities, can receive and understand noise level information, thus fostering an environment that encourages everyone to control and be conscious of the ambient noise around them.
 
+\noindent
+\includegraphics[width=\textwidth]{resources/design.jpg}
+
 The system promotes a collective responsibility towards maintaining a conducive work environment. Inspired by theories of social proof (Cialdini, 2001), when individuals observe others modifying their behaviour based on the displayed noise levels, they are likely to follow suit. By including an algorithm to alert users that they are much louder than the average desk, we can pressure outliers to reduce their noise levels to decrease distractions for others. Together with giving users the ability to send polite, anonymous messages to nearby desks, we can foster a social governance model. Users collectively contribute to the maintenance of an efficiency and peaceful environment. This approach is supported by the theory of social translucence by Erickson and Kellogg (2000), which advocates for systems that support cooperative behaviours through social cues. In a worst case scenario where noise is significantly above a predetermined level, staff or security can be notified to visit or view the desk on cctv. This will increase safety in libraries, and users that are aware of this feature can use it to call for help in emergencies.
 
-\begin{wrapfigure}{r}{0.3\textwidth} 
+\begin{wrapfigure}{r}{0.3\textwidth}
+\vspace{-\intextsep}
     \includegraphics[width=0.3\textwidth]{resources/deskDevice.jpg}
+    \vspace{-20pt} % Adjust this value as needed to reduce the gap below the image
 \end{wrapfigure}
 The display will not only serve a functional purpose but also contribute to the library's ambiance. Drawing on principles from calm technology (Weiser and Brown, 1996), the design will be unobtrusive, blending with the library's aesthetic by integrating small screens into desks. Colors and patterns will be chosen based on research in color psychology (Elliot et al., 2007), with pastel blue and green colors representing acceptable noise levels and bright red colors indicating higher noise levels. A default dark mode in the UI will reduce the light pollution in the library, decibel counters will appear as a segmented display, and it, along with all other ui elements will only update once a second, to match that of a clock to avoid distractions.
 

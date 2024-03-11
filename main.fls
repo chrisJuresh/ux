@@ -1424,6 +1424,11 @@ INPUT ./resources/headphones.jpg
 INPUT ./resources/headphones.jpg
 INPUT /usr/share/texmf-dist/fonts/vf/public/ebgaramond/EBGaramond-Regular-osf-sc-t1.vf
 INPUT /usr/share/texmf-dist/fonts/tfm/public/ebgaramond/EBGaramond-Regular-osf-sc-t1--base.tfm
+INPUT ./resources/design.jpg
+INPUT ./resources/design.jpg
+INPUT resources/design.jpg
+INPUT ./resources/design.jpg
+INPUT ./resources/design.jpg
 INPUT ./resources/deskDevice.jpg
 INPUT ./resources/deskDevice.jpg
 INPUT resources/deskDevice.jpg
