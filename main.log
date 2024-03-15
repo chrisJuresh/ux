@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.10)  11 MAR 2024 00:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2024.3.10)  15 MAR 2024 03:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -431,10 +431,6 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen187
 \Gm@layoutvoffset=\dimen188
 \Gm@dimlist=\toks30
-) (/usr/share/texmf-dist/tex/latex/cite/cite.sty
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 332.
-Package: cite 2015/02/27  v 5.5
 ) (/usr/share/texmf-dist/tex/generic/ulem/ulem.sty
 \UL@box=\box102
 \UL@hyphenbox=\box103
@@ -565,53 +561,60 @@ Package: titling 2009/09/04 v2.1d maketitle typesetting
 \WF@box=\box108
 \WF@everypar=\toks44
 Package: wrapfig 2003/01/31  v 3.6
-) (/usr/share/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2022/12/19 v0.5x Insert pages of external PDF documents (AM)
- (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
-) (/usr/share/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count319
-\calc@Bcount=\count320
-\calc@Adimen=\dimen275
-\calc@Bdimen=\dimen276
-\calc@Askip=\skip69
-\calc@Bskip=\skip70
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count321
-\calc@Cskip=\skip71
-) (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
-Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
-\ESO@tempdima=\dimen277
-\ESO@tempdimb=\dimen278
-)
-\AM@pagewidth=\dimen279
-\AM@pageheight=\dimen280
-\AM@fboxrule=\dimen281
- (/usr/share/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2022/12/19 v0.5x Pdfpages driver for pdfTeX (AM)
-)
-\pdfpages@includegraphics@status=\count322
-\AM@pagebox=\box109
-\AM@global@opts=\toks45
-\AM@pagecnt=\count323
-\AM@toc@title=\toks46
-\AM@lof@heading=\toks47
-\c@AM@survey=\count324
-\AM@templatesizebox=\box110
 ) (/usr/share/texmf-dist/tex/latex/changepage/changepage.sty
 Package: changepage 2009/10/20 v1.0c check page and change page layout
-\c@cp@cntr=\count325
-\cp@tempcnt=\count326
+\c@cp@cntr=\count319
+\cp@tempcnt=\count320
+) (/usr/share/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
+ (/usr/share/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
+) (/usr/share/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+ (/usr/share/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box109
+)
+\tc@llx=\dimen275
+\tc@lly=\dimen276
+\tc@urx=\dimen277
+\tc@ury=\dimen278
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+ (/usr/share/texmf-dist/tex/latex/adjustbox/tc-pdftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen279
+\adjbox@Height=\dimen280
+\adjbox@Depth=\dimen281
+\adjbox@Totalheight=\dimen282
+\adjbox@pwidth=\dimen283
+\adjbox@pheight=\dimen284
+\adjbox@pdepth=\dimen285
+\adjbox@ptotalheight=\dimen286
+ (/usr/share/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count321
+LaTeX Info: Redefining \checkoddpage on input line 45.
+) (/usr/share/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box110
+\sift@deathcycles=\count322
+\@vwid@loff=\dimen287
+\@vwid@roff=\dimen288
+)) (/usr/share/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip69
+\bibsep=\skip70
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count323
 ) (/usr/share/texmf-dist/tex/generic/babel/babel.sty
 Package: babel 2023/02/13 3.86 The Babel package
-\babel@savecnt=\count327
-\U@D=\dimen282
+\babel@savecnt=\count324
+\U@D=\dimen289
 \l@unhyphenated=\language3
  (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
-\bbl@dirlevel=\count328
+\bbl@dirlevel=\count325
  (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'british' set to \l@english
@@ -627,11 +630,29 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@english
 )) (/usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
+) (/usr/share/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2020/10/14 v3.0a eso-pic (RN)
+\ESO@tempdima=\dimen290
+\ESO@tempdimb=\dimen291
 ) (/usr/share/texmf-dist/tex/latex/doclicense/doclicense.sty
 Package: doclicense 2022/05/18 v3.2.0 Support for putting documents under a license
  (/usr/share/texmf-dist/tex/latex/xifthen/xifthen.sty
 Package: xifthen 2015/11/05 v1.4.0 Extended ifthen features
- (/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+ (/usr/share/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count326
+\calc@Bcount=\count327
+\calc@Adimen=\dimen292
+\calc@Bdimen=\dimen293
+\calc@Askip=\skip71
+\calc@Bskip=\skip72
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count328
+\calc@Cskip=\skip73
+) (/usr/share/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2022/04/13 v1.1d Standard LaTeX ifthen package (DPC)
+) (/usr/share/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
 Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )) (/usr/share/texmf-dist/tex/generic/xstring/xstring.sty (/usr/share/texmf-dist/tex/generic/xstring/xstring.tex
 \integerpart=\count329
@@ -642,11 +663,11 @@ Package: xstring 2023/01/14 v1.85 String manipulations (CT)
 Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
 ) (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
-\every@verbatim=\toks48
-\verbatim@line=\toks49
+\every@verbatim=\toks45
+\verbatim@line=\toks46
 \verbatim@in@stream=\read4
 )
-\doclicense@hsize=\skip72
+\doclicense@hsize=\skip74
  (/usr/share/texmf-dist/tex/latex/doclicense/doclicense-english.ldf
 File: doclicense-english.ldf 
 )) (/usr/share/texmf-dist/tex/latex/numspell/numspell.sty
@@ -669,7 +690,7 @@ Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 \csq@qlevel=\count338
 \csq@maxlvl=\count339
 \csq@tshold=\count340
-\csq@ltx@everypar=\toks50
+\csq@ltx@everypar=\toks47
  (/usr/share/texmf-dist/tex/latex/csquotes/csquotes.def
 File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
@@ -680,52 +701,52 @@ File: csquotes.cfg
 )) (/usr/share/texmf-dist/tex/latex/numspell/numspell-english.sty
 Package: numspell-english 2020/11/11 v1.2 English language package for numspell
 )
-LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on input line 24.
+LaTeX Font Info:    Trying to load font information for T1+EBGaramond-OsF on input line 26.
  (/usr/share/texmf-dist/tex/latex/ebgaramond/T1EBGaramond-OsF.fd
 File: T1EBGaramond-OsF.fd 2019/10/22 (autoinst) Font definitions for T1/EBGaramond-OsF.
 )
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <12> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 24.
+(Font)              scaled to size 12.0pt on input line 26.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 24.
-LaTeX Font Info:    ... okay on input line 24.
-Package hyperref Info: Link coloring OFF on input line 24.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
+LaTeX Font Info:    ... okay on input line 26.
+Package hyperref Info: Link coloring OFF on input line 26.
  (./main.out) (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
-LaTeX Info: Redefining \microtypecontext on input line 24.
-Package microtype Info: Applying patch `item' on input line 24.
-Package microtype Info: Applying patch `toc' on input line 24.
-Package microtype Info: Applying patch `eqnum' on input line 24.
-Package microtype Info: Applying patch `verbatim' on input line 24.
+LaTeX Info: Redefining \microtypecontext on input line 26.
+Package microtype Info: Applying patch `item' on input line 26.
+Package microtype Info: Applying patch `toc' on input line 26.
+Package microtype Info: Applying patch `eqnum' on input line 26.
+Package microtype Info: Applying patch `verbatim' on input line 26.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 24.
+LaTeX Info: Redefining \showhyphens on input line 26.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -734,16 +755,16 @@ File: mt-EBGaramond.cfg 2021/10/25 v2.0 microtype config. file: EB Garamond / Ad
 ) (/usr/share/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count341
-\scratchdimen=\dimen283
+\scratchdimen=\dimen294
 \scratchbox=\box111
 \nofMPsegments=\count342
 \nofMParguments=\count343
-\everyMPshowfont=\toks51
+\everyMPshowfont=\toks48
 \MPscratchCnt=\count344
-\MPscratchDim=\dimen284
+\MPscratchDim=\dimen295
 \MPnumerator=\count345
 \makeMPintoPDFobject=\count346
-\everyMPtoPDFconversion=\toks52
+\everyMPtoPDFconversion=\toks49
 ) (/usr/share/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
@@ -752,8 +773,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: changepage package is loaded.
-\caption@adjustwidth@hsize=\dimen285
-\caption@adjustwidth@linewidth=\dimen286
+\caption@adjustwidth@hsize=\dimen296
+\caption@adjustwidth@linewidth=\dimen297
 Package caption Info: float package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
@@ -794,76 +815,67 @@ Package caption Info: End \AtBeginDocument code.
 
 \c@mv@tabular=\count347
 \c@mv@boldtabular=\count348
-(/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
- (/usr/share/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PDF (HO)
- (/usr/share/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-))
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <20.74> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 20.74pt on input line 24.
+(Font)              scaled to size 20.74pt on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <24.88> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 24.88pt on input line 24.
+(Font)              scaled to size 24.88pt on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <24.88> not available
-(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 24.88pt on input line 24.
+(Font)              scaled to size 24.88pt on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/sc' in size <24.88> not available
-(Font)              Font shape `T1/EBGaramond-OsF/bold/sc' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/bold/sc' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/sc' will be
-(Font)              scaled to size 24.88pt on input line 24.
+(Font)              scaled to size 24.88pt on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <14.4> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 24.
+(Font)              scaled to size 14.4pt on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' in size <14.4> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/sc' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/sc' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/sc' will be
-(Font)              scaled to size 14.4pt on input line 24.
- (/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
+(Font)              scaled to size 14.4pt on input line 26.
+(/usr/share/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 24.
+(Font)              <14.4> on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 24.
-<resources/novel_front.jpg, id=27, 1327.32507pt x 1824.05408pt>
+(Font)              <7> on input line 26.
+<resources/novel_front.jpg, id=66, 1327.32507pt x 1824.05408pt>
 File: resources/novel_front.jpg Graphic file (type jpg)
 <use resources/novel_front.jpg>
-Package pdftex.def Info: resources/novel_front.jpg  used on input line 24.
+Package pdftex.def Info: resources/novel_front.jpg  used on input line 26.
 (pdftex.def)             Requested size: 1327.32184pt x 1824.04964pt.
  [1
 
 
  <./resources/novel_front.jpg>]
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <10> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 24.
+(Font)              scaled to size 10.0pt on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' in size <14.4> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 14.4pt on input line 24.
+(Font)              scaled to size 14.4pt on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/it' in size <12> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/it' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/it' will be
-(Font)              scaled to size 12.0pt on input line 24.
+(Font)              scaled to size 12.0pt on input line 26.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 24.
+(Font)              <5> on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <10> not available
-(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 24.
+(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 26.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 10.0pt on input line 24.
+(Font)              scaled to size 10.0pt on input line 26.
 LaTeX Font Info:    Font shape `U/ccicons/m/n' will be
-(Font)              scaled to size 10.0pt on input line 24.
-LaTeX Font Info:    Trying to load font information for OT1+ocrb on input line 24.
+(Font)              scaled to size 10.0pt on input line 26.
+LaTeX Font Info:    Trying to load font information for OT1+ocrb on input line 26.
  (/usr/share/texmf-dist/tex/latex/ocr-latex/ot1ocrb.fd
 File: ot1ocrb.fd 2006/09/18 Font definitions for the OCR-B fonts. Look in ocr.sty for further information.
 )
@@ -875,23 +887,29 @@ Package microtype Info: Loading generic protrusion settings for font family
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.24 \begin{document}
+l.26 \begin{document}
                       [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_ljow5q.enc}{/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_tcdnmr.enc}]
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <20.74> not available
-(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 26.
+(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 28.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 28.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/sc' in size <20.74> not available
-(Font)              Font shape `T1/EBGaramond-OsF/bold/sc' tried instead on input line 26.
+(Font)              Font shape `T1/EBGaramond-OsF/bold/sc' tried instead on input line 28.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/sc' will be
-(Font)              scaled to size 20.74pt on input line 26.
+(Font)              scaled to size 20.74pt on input line 28.
  (./main.toc
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <12> not available
 (Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 3.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
 (Font)              scaled to size 12.0pt on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
 )
 \tf@toc=\write5
 \openout5 = `main.toc'.
@@ -901,158 +919,472 @@ LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
 {/usr/share/texmf-dist/fonts/enc/dvips/ebgaramond/ebgm_byuyni.enc}]
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <10.95> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 28.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 10.95pt on input line 28.
+(Font)              scaled to size 10.95pt on input line 30.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' in size <10.95> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/sc' tried instead on input line 28.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/sc' tried instead on input line 30.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/sc' will be
-(Font)              scaled to size 10.95pt on input line 28.
+(Font)              scaled to size 10.95pt on input line 30.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/sc' in size <12> not available
+(Font)              Font shape `T1/EBGaramond-OsF/bold/sc' tried instead on input line 32.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/sc' will be
+(Font)              scaled to size 12.0pt on input line 32.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/sc' in size <12> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/sc' tried instead on input line 29.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/sc' tried instead on input line 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/sc' will be
-(Font)              scaled to size 12.0pt on input line 29.
+(Font)              scaled to size 12.0pt on input line 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <24.8675> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 29.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 24.8675pt on input line 29.
+(Font)              scaled to size 24.8675pt on input line 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <35.39868> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 29.
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 33.
 LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 35.39868pt on input line 29.
+(Font)              scaled to size 35.39868pt on input line 33.
 Package lettrine.sty Info: Targeted height = 19.894pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.86754pt (T) loversize=0.25;
-(lettrine.sty)             reported on input line 29.
-<resources/Map2.png, id=54, 295.3434pt x 91.542pt>
+(lettrine.sty)             reported on input line 33.
+<resources/Map2.png, id=104, 295.3434pt x 91.542pt>
 File: resources/Map2.png Graphic file (type png)
 <use resources/Map2.png>
-Package pdftex.def Info: resources/Map2.png  used on input line 36.
+Package pdftex.def Info: resources/Map2.png  used on input line 40.
 (pdftex.def)             Requested size: 386.67296pt x 119.86084pt.
 [3
 
  <./resources/Map2.png>]
-Chapter 2.
 Package lettrine.sty Info: Targeted height = 19.894pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 22.77902pt (M) loversize=0.25;
-(lettrine.sty)             reported on input line 41.
-<resources/mileEnd.jpg, id=62, 1027.84pt x 1027.84pt>
+(lettrine.sty)             reported on input line 44.
+<resources/mileEnd.jpg, id=112, 1027.84pt x 1027.84pt>
 File: resources/mileEnd.jpg Graphic file (type jpg)
 <use resources/mileEnd.jpg>
-Package pdftex.def Info: resources/mileEnd.jpg  used on input line 44.
-(pdftex.def)             Requested size: 116.00307pt x 115.99557pt.
-<resources/whitechapel.jpg, id=63, 1027.84pt x 1027.84pt>
+Package pdftex.def Info: resources/mileEnd.jpg  used on input line 48.
+(pdftex.def)             Requested size: 119.86766pt x 119.85373pt.
+<resources/whitechapel.jpg, id=113, 1027.84pt x 1027.84pt>
 File: resources/whitechapel.jpg Graphic file (type jpg)
 <use resources/whitechapel.jpg>
-Package pdftex.def Info: resources/whitechapel.jpg  used on input line 53.
-(pdftex.def)             Requested size: 116.00307pt x 115.99557pt.
-[4
+Package pdftex.def Info: resources/whitechapel.jpg  used on input line 58.
+(pdftex.def)             Requested size: 119.86766pt x 119.85373pt.
+ [4
 
  <./resources/mileEnd.jpg> <./resources/whitechapel.jpg>]
-<resources/headphones.jpg, id=70, 1027.84pt x 1027.84pt>
+<resources/headphones.jpg, id=120, 1027.84pt x 1027.84pt>
 File: resources/headphones.jpg Graphic file (type jpg)
 <use resources/headphones.jpg>
-Package pdftex.def Info: resources/headphones.jpg  used on input line 59.
-(pdftex.def)             Requested size: 116.00307pt x 115.99557pt.
- [5 <./resources/headphones.jpg>]
-Chapter 3.
+Package pdftex.def Info: resources/headphones.jpg  used on input line 65.
+(pdftex.def)             Requested size: 119.86766pt x 119.85373pt.
+<resources/dunstable.jpg, id=121, 216.81pt x 216.81pt>
+File: resources/dunstable.jpg Graphic file (type jpg)
+<use resources/dunstable.jpg>
+Package pdftex.def Info: resources/dunstable.jpg  used on input line 74.
+(pdftex.def)             Requested size: 116.00307pt x 116.00377pt.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <8> not available
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 76.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 8.0pt on input line 76.
 Package lettrine.sty Info: Targeted height = 19.894pt
 (lettrine.sty)             (for loversize=0, accent excluded),
 (lettrine.sty)             Lettrine height = 24.86754pt (T) loversize=0.25;
-(lettrine.sty)             reported on input line 68.
-<resources/design.jpg, id=76, 1228.59pt x 798.985pt>
+(lettrine.sty)             reported on input line 81.
+ [5 <./resources/headphones.jpg> <./resources/dunstable.jpg>]
+<resources/chairs.jpg, id=129, 1027.84pt x 1027.84pt>
+File: resources/chairs.jpg Graphic file (type jpg)
+<use resources/chairs.jpg>
+Package pdftex.def Info: resources/chairs.jpg  used on input line 85.
+(pdftex.def)             Requested size: 119.86766pt x 119.85373pt.
+Package lettrine.sty Info: Targeted height = 19.894pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 22.77902pt (B) loversize=0.25;
+(lettrine.sty)             reported on input line 91.
+ [6 <./resources/chairs.jpg>] [7]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 386.67296pt, 113.81102pt)
+* v-part:(T,H,B)=(102.43008pt, 692.5399pt, 0.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=386.67296pt
+* \textheight=692.5399pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=3.93373pt
+* \headheight=12.0pt
+* \headsep=14.22636pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Chapter 2.
+Package lettrine.sty Info: Targeted height = 19.894pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 22.77902pt (L) loversize=0.25;
+(lettrine.sty)             reported on input line 99.
+<resources/design.jpg, id=147, 1228.59pt x 798.985pt>
 File: resources/design.jpg Graphic file (type jpg)
 <use resources/design.jpg>
-Package pdftex.def Info: resources/design.jpg  used on input line 71.
+Package pdftex.def Info: resources/design.jpg  used on input line 102.
 (pdftex.def)             Requested size: 386.67296pt x 251.46216pt.
-[6
-
- <./resources/design.jpg>]
-<resources/deskDevice.jpg, id=82, 1027.84pt x 1027.84pt>
-File: resources/deskDevice.jpg Graphic file (type jpg)
-<use resources/deskDevice.jpg>
-Package pdftex.def Info: resources/deskDevice.jpg  used on input line 77.
-(pdftex.def)             Requested size: 116.00307pt x 115.99557pt.
- [7 <./resources/deskDevice.jpg>]
-Chapter 4.
-<resources/nData.pdf, id=88, 597.23125pt x 341.275pt>
-File: resources/nData.pdf Graphic file (type pdf)
-<use resources/nData.pdf>
-Package pdftex.def Info: resources/nData.pdf  used on input line 89.
-(pdftex.def)             Requested size: 500.48398pt x 285.99207pt.
-<resources/lData.pdf, id=89, 597.23125pt x 568.1225pt>
-File: resources/lData.pdf Graphic file (type pdf)
-<use resources/lData.pdf>
-Package pdftex.def Info: resources/lData.pdf  used on input line 94.
-(pdftex.def)             Requested size: 500.48398pt x 476.09268pt.
 [8
 
- <./resources/nData.pdf>] [9 <./resources/lData.pdf>]
-Chapter 5.
-[10
+
+ <./resources/design.jpg>]
+<resources/deskDevice.jpg, id=159, 1027.84pt x 1027.84pt>
+File: resources/deskDevice.jpg Graphic file (type jpg)
+<use resources/deskDevice.jpg>
+Package pdftex.def Info: resources/deskDevice.jpg  used on input line 110.
+(pdftex.def)             Requested size: 119.86766pt x 119.85373pt.
+ [9
+
+ <./resources/deskDevice.jpg>] [10]
+Chapter 3.
+Package lettrine.sty Info: Targeted height = 19.894pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 22.77902pt (N) loversize=0.25;
+(lettrine.sty)             reported on input line 121.
+[11
 
 ]
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <17.28> not available
-(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 99.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
-(Font)              scaled to size 17.28pt on input line 99.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <17.28> not available
-(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 99.
-LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
-(Font)              scaled to size 17.28pt on input line 99.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 99.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 99.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 99.
+Package lettrine.sty Info: Targeted height = 19.894pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 22.77902pt (B) loversize=0.25;
+(lettrine.sty)             reported on input line 135.
+ [12
 
-Underfull \hbox (badness 2753) in paragraph at lines 99--99
+] [13]
+Chapter 4.
+(./main.bbl [14
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
+[]\T1/EBGaramond-OsF/regular/n/12 (+20) https://blogs.bl.uk/living-knowledge/2024/03/learning-lessons-from-the-cyber-
+ []
+
+
+Underfull \hbox (badness 4819) in paragraph at lines 114--117
+[]\T1/EBGaramond-OsF/regular/n/12 (+20) The Dan-ger-ous Maybe.  The Unready-to-Hand Body: A Phe-nomeno-log-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+\T1/EBGaramond-OsF/regular/n/12 (+20) i-cal Es-say on the Source Ex-pe-ri-ence of the On-to-log-i-cal..., June 2019.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+\T1/EBGaramond-OsF/regular/n/12 (+20) URL []https://thedangerousmaybe.medium.com/the-unready-to-hand-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--117
+\T1/EBGaramond-OsF/regular/n/12 (+20) body-a-phenomenological-essay-on-the-source-experience-of-the-ontological-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--123
+[]\T1/EBGaramond-OsF/regular/n/12 (+20) Don Nor-man.  \T1/EBGaramond-OsF/regular/it/12 (+20) The De-sign of Ev-ery-day Things\T1/EBGaramond-OsF/regular/n/12 (+20) .  1988.  URL
+ []
+
+
+Underfull \hbox (badness 1394) in paragraph at lines 125--131
+\T1/EBGaramond-OsF/regular/it/12 (+20) Be-yond Cal-cu-la-tion\T1/EBGaramond-OsF/regular/n/12 (+20) , pages 75--85. Springer New York, New York, NY, 1997.
+ []
+
+
+Overfull \hbox (26.1457pt too wide) in paragraph at lines 125--131
+[]\T1/EBGaramond-OsF/regular/n/12 (-20) https://people.eng.unimelb.edu.au/vkostakos/courses/ubicomp10S/papers/visions/weiser-
+ []
+
+) [15]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(113.81102pt, 386.67296pt, 113.81102pt)
+* v-part:(T,H,B)=(170.71652pt, 624.25346pt, 0.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=386.67296pt
+* \textheight=624.25346pt
+* \oddsidemargin=41.54103pt
+* \evensidemargin=41.54103pt
+* \topmargin=72.22017pt
+* \headheight=12.0pt
+* \headsep=14.22636pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<resources/square.jpg, id=250, 1.00375pt x 1.00375pt>
+File: resources/square.jpg Graphic file (type jpg)
+<use resources/square.jpg>
+Package pdftex.def Info: resources/square.jpg  used on input line 160.
+(pdftex.def)             Requested size: 127.60278pt x 128.0798pt.
+<resources/novel_front_dalle.jpg, id=251, 1034.17352pt x 1420.9707pt>
+File: resources/novel_front_dalle.jpg Graphic file (type jpg)
+<use resources/novel_front_dalle.jpg>
+Package pdftex.def Info: resources/novel_front_dalle.jpg  used on input line 164.
+(pdftex.def)             Requested size: 92.86646pt x 127.60278pt.
+File: resources/square.jpg Graphic file (type jpg)
+<use resources/square.jpg>
+Package pdftex.def Info: resources/square.jpg  used on input line 167.
+(pdftex.def)             Requested size: 127.60278pt x 128.0798pt.
+File: resources/mileEnd.jpg Graphic file (type jpg)
+<use resources/mileEnd.jpg>
+Package pdftex.def Info: resources/mileEnd.jpg  used on input line 170.
+(pdftex.def)             Requested size: 127.60278pt x 127.6014pt.
+File: resources/whitechapel.jpg Graphic file (type jpg)
+<use resources/whitechapel.jpg>
+Package pdftex.def Info: resources/whitechapel.jpg  used on input line 173.
+(pdftex.def)             Requested size: 127.60278pt x 127.6014pt.
+File: resources/headphones.jpg Graphic file (type jpg)
+<use resources/headphones.jpg>
+Package pdftex.def Info: resources/headphones.jpg  used on input line 176.
+(pdftex.def)             Requested size: 127.60278pt x 127.6014pt.
+File: resources/chairs.jpg Graphic file (type jpg)
+<use resources/chairs.jpg>
+Package pdftex.def Info: resources/chairs.jpg  used on input line 179.
+(pdftex.def)             Requested size: 127.60278pt x 127.6014pt.
+<resources/designDesks.jpg, id=252, 1027.84pt x 1027.84pt>
+File: resources/designDesks.jpg Graphic file (type jpg)
+<use resources/designDesks.jpg>
+Package pdftex.def Info: resources/designDesks.jpg  used on input line 182.
+(pdftex.def)             Requested size: 127.60278pt x 127.6014pt.
+File: resources/deskDevice.jpg Graphic file (type jpg)
+<use resources/deskDevice.jpg>
+Package pdftex.def Info: resources/deskDevice.jpg  used on input line 185.
+(pdftex.def)             Requested size: 127.60278pt x 127.6014pt.
+ [16
+
+
+ <./resources/square.jpg> <./resources/novel_front_dalle.jpg> <./resources/designDesks.jpg>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(199.16928pt, 595.8007pt, 0.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=595.8007pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=100.67293pt
+* \headheight=12.0pt
+* \headsep=14.22636pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Chapter 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 192--192
+|\T1/EBGaramond-OsF/bold/sc/12 (+20) Quantitative-Data|
+ []
+
+<resources/numData.pdf, id=257, 597.23125pt x 312.16624pt>
+File: resources/numData.pdf Graphic file (type pdf)
+<use resources/numData.pdf>
+Package pdftex.def Info: resources/numData.pdf  used on input line 194.
+(pdftex.def)             Requested size: 500.48398pt x 261.59863pt.
+[17
+
+
+
+ <./resources/numData.pdf>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(170.71652pt, 624.25346pt, 0.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=624.25346pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=72.22017pt
+* \headheight=12.0pt
+* \headsep=14.22636pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+|\T1/EBGaramond-OsF/bold/sc/12 (+20) Qualitative-Data|
+ []
+
+<resources/wordData.pdf, id=279, 597.23125pt x 540.0175pt>
+File: resources/wordData.pdf Graphic file (type pdf)
+<use resources/wordData.pdf>
+Package pdftex.def Info: resources/wordData.pdf  used on input line 200.
+(pdftex.def)             Requested size: 500.48398pt x 452.5404pt.
+[18
+
+
+ <./resources/wordData.pdf>]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: letterpaper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 500.484pt, 56.9055pt)
+* v-part:(T,H,B)=(85.35826pt, 709.61172pt, 0.0pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=500.484pt
+* \textheight=709.61172pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-13.13809pt
+* \headheight=12.0pt
+* \headsep=14.22636pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=47.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--204
+|\T1/EBGaramond-OsF/bold/sc/12 (+20) Interview-Data|
+ []
+
+<resources/interData.pdf, id=301, 597.23125pt x 767.86874pt>
+File: resources/interData.pdf Graphic file (type pdf)
+<use resources/interData.pdf>
+Package pdftex.def Info: resources/interData.pdf  used on input line 206.
+(pdftex.def)             Requested size: 500.48398pt x 643.48218pt.
+[19
+
+
+ <./resources/interData.pdf>]
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/m/n' in size <17.28> not available
+(Font)              Font shape `T1/EBGaramond-OsF/regular/n' tried instead on input line 209.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/regular/n' will be
+(Font)              scaled to size 17.28pt on input line 209.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/b/n' in size <17.28> not available
+(Font)              Font shape `T1/EBGaramond-OsF/bold/n' tried instead on input line 209.
+LaTeX Font Info:    Font shape `T1/EBGaramond-OsF/bold/n' will be
+(Font)              scaled to size 17.28pt on input line 209.
+
+Underfull \hbox (badness 2753) in paragraph at lines 209--209
 \T1/EBGaramond-OsF/regular/n/17.28 (+20) real-world in-ter-ac-tions, our re-search re-veals how
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 99--99
+Underfull \hbox (badness 10000) in paragraph at lines 209--209
 
  []
 
 
-Underfull \hbox (badness 5533) in paragraph at lines 99--99
+Underfull \hbox (badness 5533) in paragraph at lines 209--209
 \T1/EBGaramond-OsF/regular/n/17.28 (+20) Furthermore, this book pro-poses an in-no-va-tive
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 99--99
+Underfull \hbox (badness 1997) in paragraph at lines 209--209
 \T1/EBGaramond-OsF/regular/n/17.28 (+20) through au-di-tory, vi-sual, and tac-tile feed-back to
  []
 
-<resources/novel_back.jpg, id=134, 1327.32507pt x 1824.05408pt>
+<resources/novel_back.jpg, id=322, 1327.32507pt x 1824.05408pt>
 File: resources/novel_back.jpg Graphic file (type jpg)
 <use resources/novel_back.jpg>
-Package pdftex.def Info: resources/novel_back.jpg  used on input line 99.
+Package pdftex.def Info: resources/novel_back.jpg  used on input line 209.
 (pdftex.def)             Requested size: 614.28331pt x 794.98793pt.
-[11
+[20
+
 
  <./resources/novel_back.jpg>] 
 enddocument/afterlastpage: lastpage setting LastPage.
 (./main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: B2857F6735823F24A1C08C46AD2C4772;435.
+(rerunfilecheck)             Checksum: 6F2A30B0C295C295BCCAD699D2859A50;1737.
  ) 
 Here is how much of TeX's memory you used:
- 21951 strings out of 477985
- 388290 string characters out of 5840058
- 1859388 words of memory out of 5000000
- 41441 multiletter control sequences out of 15000+600000
- 661389 words of font info for 216 fonts, out of 8000000 for 9000
+ 22694 strings out of 477985
+ 402480 string characters out of 5840058
+ 1862388 words of memory out of 5000000
+ 42068 multiletter control sequences out of 15000+600000
+ 680090 words of font info for 261 fonts, out of 8000000 for 9000
  15 hyphenation exceptions out of 8191
- 124i,14n,120p,1212b,646s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 124i,14n,120p,1766b,724s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Bold.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Italic.pfb></usr/share/texmf-dist/fonts/type1/public/ebgaramond/EBGaramond-Regular.pfb></usr/share/texmf-dist/fonts/type1/public/ccicons/ccicons.pfb></usr/share/texmf-dist/fonts/type1/public/ocr-b-outline/ocrb9.pfb>
-Output written on main.pdf (12 pages, 4057257 bytes).
+Output written on main.pdf (21 pages, 5854314 bytes).
 PDF statistics:
- 177 PDF objects out of 1000 (max. 8388607)
- 130 compressed objects within 2 object streams
- 22 named destinations out of 1000 (max. 500000)
- 70759 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 373 PDF objects out of 1000 (max. 8388607)
+ 305 compressed objects within 4 object streams
+ 56 named destinations out of 1000 (max. 500000)
+ 79069 words of extra memory for PDF output out of 89155 (max. 10000000)
 

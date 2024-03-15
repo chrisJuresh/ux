@@ -1,0 +1,132 @@
+\begin{thebibliography}{18}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Aarts and Dijksterhuis(2003)]{aarts_silence_2003}
+Henk Aarts and Ap~Dijksterhuis.
+\newblock The silence of the library: {Environment}, situational norm, and social behavior.
+\newblock \emph{Journal of Personality and Social Psychology}, 84\penalty0 (1):\penalty0 18--28, 2003.
+\newblock ISSN 1939-1315, 0022-3514.
+\newblock \doi{10.1037/0022-3514.84.1.18}.
+\newblock URL \url{https://doi.apa.org/doi/10.1037/0022-3514.84.1.18}.
+
+\bibitem[Cavoukian et~al.(2010)Cavoukian, Taylor, and Abrams]{cavoukian_privacy_2010}
+Ann Cavoukian, Scott Taylor, and Martin~E. Abrams.
+\newblock Privacy by {Design}: essential for organizational accountability and strong business practices.
+\newblock \emph{Identity in the Information Society}, 3\penalty0 (2):\penalty0 405--413, August 2010.
+\newblock ISSN 1876-0678.
+\newblock \doi{10.1007/s12394-010-0053-z}.
+\newblock URL \url{http://link.springer.com/10.1007/s12394-010-0053-z}.
+
+\bibitem[Cialdini(2001)]{cialdini_influence_2001}
+Robert~B. Cialdini.
+\newblock \emph{Influence: science and practice}.
+\newblock Pearson Higher Education, Harlow, 4th ed edition, 2001.
+\newblock ISBN 9780321188953.
+
+\bibitem[Clark(2003)]{clark_house_2003}
+Sally Clark.
+\newblock \emph{House beautiful color: bright ideas for every room}.
+\newblock Hearst Books, New York, 1st pbk. ed. edition, 2003.
+\newblock ISBN 9781588162519.
+\newblock OCLC: 52290905.
+
+\bibitem[Deterding et~al.(2011)Deterding, Dixon, Khaled, and Nacke]{deterding_game_2011}
+Sebastian Deterding, Dan Dixon, Rilla Khaled, and Lennart Nacke.
+\newblock From game design elements to gamefulness: defining "gamification".
+\newblock In \emph{Proceedings of the 15th {International} {Academic} {MindTrek} {Conference}: {Envisioning} {Future} {Media} {Environments}}, {MindTrek} '11, pages 9--15, New York, NY, USA, September 2011. Association for Computing Machinery.
+\newblock ISBN 9781450308168.
+\newblock \doi{10.1145/2181037.2181040}.
+\newblock URL \url{https://doi.org/10.1145/2181037.2181040}.
+
+\bibitem[Elliot et~al.(2007)Elliot, Maier, Moller, Friedman, and Meinhardt]{elliot_color_2007}
+Andrew~J. Elliot, Markus~A. Maier, Arlen~C. Moller, Ron Friedman, and Jörg Meinhardt.
+\newblock Color and psychological functioning: {The} effect of red on performance attainment.
+\newblock \emph{Journal of Experimental Psychology: General}, 136\penalty0 (1):\penalty0 154--168, February 2007.
+\newblock ISSN 1939-2222, 0096-3445.
+\newblock \doi{10.1037/0096-3445.136.1.154}.
+\newblock URL \url{https://doi.apa.org/doi/10.1037/0096-3445.136.1.154}.
+
+\bibitem[Erickson and Kellogg(2000)]{erickson_social_2000}
+Thomas Erickson and Wendy~A. Kellogg.
+\newblock Social translucence: an approach to designing systems that support social processes.
+\newblock \emph{ACM Transactions on Computer-Human Interaction}, 7\penalty0 (1):\penalty0 59--83, March 2000.
+\newblock ISSN 1073-0516, 1557-7325.
+\newblock \doi{10.1145/344949.345004}.
+\newblock URL \url{https://dl.acm.org/doi/10.1145/344949.345004}.
+
+\bibitem[Fipps(2003)]{fipps_psychology_2003}
+Kevin Fipps.
+\newblock The psychology behind colors and symbols in safety messaging, June 2003.
+\newblock URL \url{https://www.ishn.com/articles/113745-the-psychology-behind-colors-and-symbols-in-safety-messaging}.
+
+\bibitem[Harrison et~al.(2007)Harrison, Sengers, and Tatar]{steve_harrison_three_2007}
+Steve Harrison, Phoebe Sengers, and Deborah Tatar.
+\newblock The {Three} {Paradigms} of {HCI}.
+\newblock 2007.
+
+\bibitem[Joinson(2004)]{joinson_self-esteem_2004}
+Adam~N. Joinson.
+\newblock Self-{Esteem}, {Interpersonal} {Risk}, and {Preference} for {E}-{Mail} to {Face}-{To}-{Face} {Communication}.
+\newblock \emph{CyberPsychology \& Behavior}, 7\penalty0 (4):\penalty0 472--478, August 2004.
+\newblock ISSN 1094-9313, 1557-8364.
+\newblock \doi{10.1089/cpb.2004.7.472}.
+\newblock URL \url{http://www.liebertpub.com/doi/10.1089/cpb.2004.7.472}.
+
+\bibitem[Keating(2024)]{sir_roly_keating_learning_2024}
+Sir~Roly Keating.
+\newblock Learning lessons from the cyber-attack, March 2024.
+\newblock URL \url{https://blogs.bl.uk/living-knowledge/2024/03/learning-lessons-from-the-cyber-attack.html}.
+
+\bibitem[Kraut et~al.(2002)Kraut, Kiesler, Boneva, Cummings, Helgeson, and Crawford]{kraut_internet_2002}
+Robert Kraut, Sara Kiesler, Bonka Boneva, Jonathon Cummings, Vicki Helgeson, and Anne Crawford.
+\newblock Internet {Paradox} {Revisited}.
+\newblock \emph{Journal of Social Issues}, 58\penalty0 (1):\penalty0 49--74, January 2002.
+\newblock ISSN 0022-4537, 1540-4560.
+\newblock \doi{10.1111/1540-4560.00248}.
+\newblock URL \url{https://spssi.onlinelibrary.wiley.com/doi/10.1111/1540-4560.00248}.
+
+\bibitem[Kunsts(2024)]{kunsts_iphone_2024}
+Alexander Kunsts.
+\newblock {iPhone} ownership by age in the {UK} 2023, February 2024.
+\newblock URL \url{https://www.statista.com/forecasts/1284304/iphone-user-share-in-the-united-kingdom-by-age}.
+
+\bibitem[Luyben et~al.(1981)Luyben, Cohen, Conger, and Gration]{luyben_reducing_1981}
+Paul~D. Luyben, Leonard Cohen, Rebecca Conger, and Selby~U. Gration.
+\newblock Reducing {Noise} in a {College} {Library}.
+\newblock \emph{College \& Research Libraries}, 42\penalty0 (5):\penalty0 470--481, September 1981.
+\newblock ISSN 2150-6701, 0010-0870.
+\newblock \doi{10.5860/crl_42_05_470}.
+\newblock URL \url{http://crl.acrl.org/index.php/crl/article/view/13733}.
+
+\bibitem[Marshall et~al.(2011)Marshall, Morris, Rogers, Kreitmayer, and Davies]{marshall_rethinking_2011}
+Paul Marshall, Richard Morris, Yvonne Rogers, Stefan Kreitmayer, and Matt Davies.
+\newblock Rethinking 'multi-user': an in-the-wild study of how groups approach a walk-up-and-use tabletop interface.
+\newblock In \emph{Proceedings of the {SIGCHI} {Conference} on {Human} {Factors} in {Computing} {Systems}}, pages 3033--3042, Vancouver BC Canada, May 2011. ACM.
+\newblock ISBN 9781450302289.
+\newblock \doi{10.1145/1978942.1979392}.
+\newblock URL \url{https://dl.acm.org/doi/10.1145/1978942.1979392}.
+
+\bibitem[Maybe(2019)]{maybe_unready--hand_2019}
+The~Dangerous Maybe.
+\newblock The {Unready}-to-{Hand} {Body}: {A} {Phenomenological} {Essay} on the {Source} {Experience} of the {Ontological}…, June 2019.
+\newblock URL \url{https://thedangerousmaybe.medium.com/the-unready-to-hand-body-a-phenomenological-essay-on-the-source-experience-of-the-ontological-80e9abf92bed}.
+
+\bibitem[Norman(1988)]{norman_design_1988}
+Don Norman.
+\newblock \emph{The {Design} of {Everyday} {Things}}.
+\newblock 1988.
+\newblock URL \url{https://ia902800.us.archive.org/3/items/thedesignofeverydaythingsbydonnorman/}.
+
+\bibitem[Weiser and Brown(1997)]{denning_coming_1997}
+Mark Weiser and John~Seely Brown.
+\newblock The {Coming} {Age} of {Calm} {Technology}.
+\newblock In \emph{Beyond {Calculation}}, pages 75--85. Springer New York, New York, NY, 1997.
+\newblock ISBN 9780387985886 9781461206859.
+\newblock \doi{10.1007/978-1-4612-0685-9_6}.
+\newblock URL \url{https://people.eng.unimelb.edu.au/vkostakos/courses/ubicomp10S/papers/visions/weiser-96.pdf}.
+
+\end{thebibliography}
